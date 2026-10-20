@@ -1,0 +1,26 @@
+{
+ "player": "d5cak5",
+ "stars": {
+  "Meadow": 3,
+  "Goblin Trail": 2,
+  "Close Call": 1,
+  "Riverbend": 3,
+  "Rocky Pass": 3,
+  "Quarry Road": 3,
+  "Mudfoot Hollow": 2,
+  "Wolf Run": 3
+ },
+ "hard_stars": {},
+ "heroes": {
+  "basic": 4,
+  "cannon": 2,
+  "frost": 3,
+  "wren": 1
+ },
+ "survey": {
+  "plays": "Varje dag",
+  "q:understood": "Ja",
+  "keep_playing": "Ja",
+  "q:difficulty_7": "För lätt"
+ }
+}

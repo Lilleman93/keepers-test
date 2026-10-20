@@ -1,0 +1,23 @@
+{
+ "player": "hnz5q4",
+ "stars": {
+  "Meadow": 1,
+  "Goblin Trail": 3,
+  "Close Call": 3,
+  "Riverbend": 3,
+  "Rocky Pass": 3,
+  "Quarry Road": 2
+ },
+ "hard_stars": {},
+ "heroes": {
+  "basic": 3,
+  "cannon": 1,
+  "frost": 2,
+  "wren": 1
+ },
+ "survey": {
+  "plays": "Aldrig",
+  "q:understood": "Ja",
+  "keep_playing": "Ja"
+ }
+}

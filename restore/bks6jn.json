@@ -1,0 +1,24 @@
+{
+ "player": "655m8f",
+ "stars": {
+  "Meadow": 3,
+  "Goblin Trail": 2,
+  "Close Call": 2,
+  "Riverbend": 3,
+  "Rocky Pass": 3,
+  "Quarry Road": 3
+ },
+ "hard_stars": {},
+ "heroes": {
+  "basic": 6,
+  "cannon": 2,
+  "frost": 3,
+  "wren": 1
+ },
+ "survey": {
+  "plays": "Varje vecka",
+  "q:understood": "Ja",
+  "q:why_lost": "Ja",
+  "keep_playing": "Ja"
+ }
+}

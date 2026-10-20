@@ -1,0 +1,24 @@
+{
+ "player": "a6shth",
+ "stars": {
+  "Meadow": 2,
+  "Goblin Trail": 3,
+  "Close Call": 2,
+  "Riverbend": 3,
+  "Rocky Pass": 3,
+  "Quarry Road": 3,
+  "Mudfoot Hollow": 1,
+  "Wolf Run": 3
+ },
+ "hard_stars": {},
+ "heroes": {
+  "basic": 5,
+  "cannon": 2,
+  "frost": 3,
+  "wren": 1
+ },
+ "survey": {
+  "plays": "Varje vecka",
+  "keep_playing": "Ja"
+ }
+}

@@ -1,0 +1,29 @@
+{
+ "player": "9ps66r",
+ "stars": {
+  "Meadow": 3,
+  "Goblin Trail": 3,
+  "Close Call": 1,
+  "Riverbend": 3,
+  "Rocky Pass": 3,
+  "Quarry Road": 3,
+  "Mudfoot Hollow": 2,
+  "Wolf Run": 3,
+  "Twin Gates": 2,
+  "Howling Ridge": 3
+ },
+ "hard_stars": {},
+ "heroes": {
+  "basic": 6,
+  "cannon": 3,
+  "frost": 4,
+  "wren": 1
+ },
+ "survey": {
+  "plays": "Varje dag",
+  "q:understood": "Ja",
+  "keep_playing": "Ja",
+  "q:difficulty_7": "Lagom",
+  "q:favorite": "Utmaningen"
+ }
+}

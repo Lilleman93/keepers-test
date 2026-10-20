@@ -1,0 +1,17 @@
+{
+ "player": "eshbrg",
+ "stars": {
+  "Meadow": 2
+ },
+ "hard_stars": {},
+ "heroes": {
+  "basic": 1,
+  "cannon": 1,
+  "frost": 1,
+  "wren": 1
+ },
+ "survey": {
+  "plays": "Sällan",
+  "q:understood": "Delvis"
+ }
+}

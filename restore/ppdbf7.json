@@ -1,0 +1,35 @@
+{
+ "player": "fqyycb",
+ "stars": {
+  "Meadow": 2,
+  "Goblin Trail": 3,
+  "Close Call": 2,
+  "Riverbend": 3,
+  "Rocky Pass": 3,
+  "Quarry Road": 3,
+  "Mudfoot Hollow": 2,
+  "Wolf Run": 1,
+  "Twin Gates": 1,
+  "Howling Ridge": 3,
+  "Broken Circle": 2,
+  "Ashen Sky": 2,
+  "Cragborn Pass": 3,
+  "Lost Ground": 2,
+  "Darkening Road": 2
+ },
+ "hard_stars": {},
+ "heroes": {
+  "basic": 8,
+  "cannon": 5,
+  "frost": 7,
+  "wren": 1
+ },
+ "survey": {
+  "plays": "Aldrig",
+  "q:understood": "Delvis",
+  "keep_playing": "Ja",
+  "q:why_lost": "Nej",
+  "q:difficulty_12": "Lagom",
+  "q:story": "Lite"
+ }
+}

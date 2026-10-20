@@ -1,0 +1,23 @@
+{
+ "player": "65vvta",
+ "stars": {
+  "Meadow": 3,
+  "Goblin Trail": 3,
+  "Close Call": 2,
+  "Riverbend": 3,
+  "Rocky Pass": 3,
+  "Quarry Road": 3
+ },
+ "hard_stars": {},
+ "heroes": {
+  "basic": 4,
+  "cannon": 1,
+  "frost": 2,
+  "wren": 1
+ },
+ "survey": {
+  "plays": "Sällan",
+  "q:understood": "Ja",
+  "keep_playing": "Ja"
+ }
+}

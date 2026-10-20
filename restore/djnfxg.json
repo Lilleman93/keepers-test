@@ -1,0 +1,19 @@
+{
+ "player": "cxfyqy",
+ "stars": {
+  "Meadow": 2,
+  "Goblin Trail": 3,
+  "Close Call": 1
+ },
+ "hard_stars": {},
+ "heroes": {
+  "basic": 2,
+  "cannon": 1,
+  "frost": 1,
+  "wren": 1
+ },
+ "survey": {
+  "plays": "Aldrig",
+  "keep_playing": "Ja"
+ }
+}

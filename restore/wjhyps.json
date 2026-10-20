@@ -1,0 +1,25 @@
+{
+ "player": "93x8rn",
+ "stars": {
+  "Meadow": 2,
+  "Goblin Trail": 3,
+  "Close Call": 1,
+  "Riverbend": 3,
+  "Rocky Pass": 3,
+  "Quarry Road": 3,
+  "Mudfoot Hollow": 1
+ },
+ "hard_stars": {},
+ "heroes": {
+  "basic": 4,
+  "cannon": 2,
+  "frost": 3,
+  "wren": 1
+ },
+ "survey": {
+  "plays": "Varje dag",
+  "q:understood": "Ja",
+  "keep_playing": "Ja",
+  "q:difficulty_7": "Lagom"
+ }
+}

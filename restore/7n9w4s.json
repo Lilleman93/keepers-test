@@ -1,0 +1,21 @@
+{
+ "player": "eaf67j",
+ "stars": {
+  "Meadow": 3,
+  "Goblin Trail": 3,
+  "Close Call": 3,
+  "Riverbend": 3
+ },
+ "hard_stars": {},
+ "heroes": {
+  "basic": 3,
+  "cannon": 1,
+  "frost": 1,
+  "wren": 1
+ },
+ "survey": {
+  "plays": "Aldrig",
+  "q:understood": "Ja",
+  "keep_playing": "Ja"
+ }
+}
